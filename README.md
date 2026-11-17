@@ -6,3 +6,4 @@
 2. ask your dad to teach you somthing
 3. learn it
 4. thank your dad
+
