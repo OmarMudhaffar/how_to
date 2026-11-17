@@ -1,11 +1,11 @@
 lines = []
-file = open("howto.txt", "r")
+file = open("dad-head/howto.txt", "r")
 for line in file:
     lines.append(line.strip())
 file.close()
 
 def best_three(question, lines):
-    question_words = question.lower().replace("?", "").split()
+    question_words = question.lower().split()
     results = []
 
     for line in lines:
@@ -26,7 +26,7 @@ def best_three(question, lines):
 
 
 while True:
-    question = input("\nAsk me (or type exit): ")
+    question = input("\nHi Son what do you want me to teach you?: ")
     if question == "exit":
         break
 

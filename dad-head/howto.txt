@@ -1,0 +1,100 @@
+how to change my password | Open Settings, go to Account or Security, tap Change Password, type your current password, then type the new password twice and press Save.
+how to reset my password if I forgot it | On the login page tap "Forgot password", enter your email, open the reset link sent to your inbox, and choose a new password.
+how to make a strong password | Use at least 12 characters, mix capital and small letters, numbers and symbols, and never use the same password on different websites.
+how to change my email address | Open Settings, go to Account, tap Email, type the new email, then open the confirmation link sent to the new email to finish.
+how to change my username | Open your Profile, tap Edit Profile, change the Username field, and press Save. Some apps only let you do this once every few weeks.
+how to delete my account | Open Settings, go to Account, scroll down and tap Delete Account, then enter your password to confirm. Download your data first if you want to keep it.
+how to create a new account | Open the app or website, tap Sign Up, enter your name, email and a password, then verify your email with the code or link they send you.
+how to log out from all devices | Open Settings, go to Security, tap Devices or "Where you're logged in", then choose Log Out of All Devices.
+how to turn on two factor authentication | Open Settings, go to Security, tap Two-Factor Authentication, choose an authenticator app or SMS, and enter the code you receive to confirm.
+how to change my profile picture | Open your Profile, tap your current picture, choose Upload Photo or Take Photo, crop it, and press Save.
+how to turn off notifications | Open your phone Settings, tap Notifications, choose the app, and switch Allow Notifications off.
+how to take a screenshot | On Windows press Win + Shift + S, on Mac press Cmd + Shift + 4, on iPhone press the Side button + Volume Up, on Android press Power + Volume Down.
+how to copy and paste text | Select the text, press Ctrl + C to copy and Ctrl + V to paste (Cmd + C and Cmd + V on Mac). On a phone, long press the text, tap Copy, then long press where you want it and tap Paste.
+how to undo a mistake | Press Ctrl + Z on Windows or Cmd + Z on Mac. To redo, press Ctrl + Y on Windows or Cmd + Shift + Z on Mac.
+how to connect to wifi | Open Settings, tap Wi-Fi, turn it on, choose your network name from the list, type the Wi-Fi password, and tap Join.
+how to fix slow internet | Unplug your router for 30 seconds and plug it back in, move closer to the router, disconnect devices you are not using, then run a speed test to check.
+how to free up storage on my phone | Delete apps you do not use, move photos and videos to the cloud or a computer, clear app cache, and empty the Recently Deleted photos album.
+how to clear browser cache | In Chrome press Ctrl + Shift + Delete (Cmd + Shift + Delete on Mac), tick "Cached images and files", choose "All time", and confirm.
+how to update my phone | On iPhone go to Settings, General, Software Update. On Android open Settings and tap Software update (sometimes under System). Charge the phone and use Wi-Fi first.
+how to update apps | On iPhone open the App Store, tap your profile picture, and tap Update All. On Android open Google Play, tap your profile picture, then Manage apps and device, and tap Update all.
+how to restart a frozen computer | On Windows press Ctrl + Alt + Delete and choose Restart. If nothing works, hold the power button for 10 seconds until it turns off, then turn it on again.
+how to back up my phone | On iPhone go to Settings, tap your name, iCloud, iCloud Backup, and tap Back Up Now. On Android open Settings, search for Backup, and tap Back up now.
+how to find my lost phone | Go to icloud.com/find for iPhone or google.com/android/find for Android, sign in with your account, and you can see its location, play a sound, or lock it.
+how to send a large file | Upload the file to Google Drive, OneDrive or Dropbox, then share the link with the person instead of attaching the file to an email.
+how to convert a word file to pdf | Open the file in Word, click File, choose Save As, select PDF as the file type, and click Save.
+how to zip a folder | On Windows right click the folder and choose Compress to ZIP file (or Send to, Compressed folder). On Mac right click the folder and choose Compress.
+how to write a professional email | Write a clear subject, start with a greeting, explain your point in short paragraphs, end with a polite closing and your name, and read it again before sending.
+how to block a phone number | On iPhone open the Phone app, go to Recents, tap the "i" next to the number, and tap Block this Caller. On Android open the Phone app, long press the number, and tap Block.
+how to share my location | In Google Maps tap your profile picture, tap Location sharing, choose a person and for how long, then tap Share. On iPhone you can also use the Find My app.
+how to change the language on my phone | On iPhone go to Settings, General, Language and Region. On Android open Settings and search for Language, then add or choose the language you want.
+how to turn on dark mode | On iPhone go to Settings, Display and Brightness, and choose Dark. On Android go to Settings, Display, and turn on Dark theme.
+how to cancel a subscription | On iPhone go to Settings, tap your name, Subscriptions, choose it and tap Cancel. On Android open Google Play, tap your profile picture, Payments and subscriptions, Subscriptions, and cancel it.
+how to get a refund | Contact the seller or customer support with your order number, explain the problem, and ask for a refund. Keep the receipt and screenshots as proof.
+how to track my order | Open the store's website or app, go to My Orders, choose the order, and tap Track. You can also enter the tracking number on the delivery company's website.
+how to spot a scam message | Be careful with messages that ask for passwords or money, make urgent threats, have strange links or spelling mistakes. Do not click the link, contact the company directly.
+how to install python | Go to python.org, download the latest version for your system, run the installer, and on Windows tick "Add Python to PATH" before clicking Install.
+how to study for an exam | Start a few days early, split the material into small parts, study 25 minutes then rest 5 minutes, solve past exam questions, and sleep well the night before.
+how to write a cv | Put your name and contact details at the top, then a short summary, your experience starting from the newest, your education, and your skills. Keep it one or two pages.
+how to boil an egg | Put the egg in boiling water, cook it 6 minutes for soft or 10 minutes for hard, then put it in cold water for a few minutes before peeling.
+how to make tea | Boil water, put a tea bag in a cup, pour the hot water on it, wait 3 to 5 minutes, remove the bag, and add sugar or milk if you like.
+how to change my phone wallpaper | On iPhone go to Settings, Wallpaper, and tap Add New Wallpaper. On Android long press an empty spot on the home screen, tap Wallpaper, and choose a picture.
+how to turn on airplane mode | Swipe down from the top of the screen to open quick settings or Control Center and tap the airplane icon. You can also find it in Settings.
+how to turn on bluetooth | Open Settings, tap Bluetooth, and switch it on. Then choose the device you want to connect from the list.
+how to connect wireless headphones | Turn on Bluetooth on your phone, put the headphones in pairing mode by holding the power or pairing button, then tap their name in the Bluetooth list.
+how to record my screen | On iPhone add Screen Recording to Control Center and tap it. On Android open quick settings and tap Screen record. On Windows open the Snipping Tool and choose Record. On Mac press Cmd + Shift + 5.
+how to scan a qr code | Open your phone camera, point it at the QR code for a second, and tap the link that appears on the screen.
+how to make a hotspot from my phone | On iPhone go to Settings, Personal Hotspot, and turn on Allow Others to Join. On Android go to Settings, Network, Hotspot and tethering, and turn on Wi-Fi hotspot.
+how to save battery on my phone | Lower the screen brightness, turn on Low Power Mode or Battery Saver, close apps you do not use, and turn off Bluetooth and location when you do not need them.
+how to see my wifi password | On iPhone go to Settings, Wi-Fi, tap the "i" next to the network, and tap Password. On Android tap the network in Wi-Fi settings and choose Share. On Windows open the Wi-Fi network properties and view the security key.
+how to rename a file | On Windows click the file and press F2. On Mac click the file and press Return. Type the new name and press Enter again.
+how to find a file on my computer | On Windows press the Windows key and type the file name. On Mac press Cmd + Space to open Spotlight and type the file name.
+how to recover a deleted file | Open the Recycle Bin on Windows or the Trash on Mac, find the file, right click it, and choose Restore or Put Back.
+how to uninstall an app | On iPhone long press the app and tap Remove App. On Android long press the app and tap Uninstall. On Windows go to Settings, Apps, choose the app and click Uninstall.
+how to check my computer storage | On Windows open Settings, System, Storage. On Mac click the Apple menu, System Settings, General, Storage.
+how to open task manager | On Windows press Ctrl + Shift + Esc. On Mac press Cmd + Space and type Activity Monitor.
+how to close a frozen app | On Windows press Ctrl + Shift + Esc, choose the app, and click End task. On Mac press Cmd + Option + Esc, choose the app, and click Force Quit.
+how to change my computer password | On Windows go to Settings, Accounts, Sign-in options, Password, and click Change. On Mac open System Settings, search for Password, and click Change Password.
+how to lock my computer | On Windows press Win + L. On Mac press Ctrl + Cmd + Q.
+how to split the screen on windows | Drag a window to the left or right edge of the screen, or press Win + Left Arrow or Win + Right Arrow, then choose another window for the other half.
+how to print a document | Open the document, press Ctrl + P (Cmd + P on Mac), choose your printer and the number of copies, and click Print.
+how to search for a word in a page | Press Ctrl + F on Windows or Cmd + F on Mac, type the word, and press Enter to jump to each place it appears.
+how to open a new tab in the browser | Press Ctrl + T on Windows or Cmd + T on Mac. To reopen a tab you closed by mistake press Ctrl + Shift + T or Cmd + Shift + T.
+how to save a website as a bookmark | Press Ctrl + D on Windows or Cmd + D on Mac, choose the folder, and click Done.
+how to use incognito mode | In Chrome press Ctrl + Shift + N on Windows or Cmd + Shift + N on Mac. Your history is not saved, but websites and your network can still see what you do.
+how to block ads in the browser | Install a trusted ad blocker extension from your browser's extension store, for example AdGuard, and turn it on.
+how to change the default browser | On Windows go to Settings, Apps, Default apps, choose the browser and click Set default. On Mac go to System Settings, Desktop and Dock, and choose the Default web browser.
+how to make a video call on whatsapp | Open the chat with the person and tap the camera icon at the top. For a group call open the group chat and tap the same icon.
+how to back up whatsapp chats | Open WhatsApp, go to Settings, Chats, Chat backup, and tap Back Up. It saves to Google Drive on Android or iCloud on iPhone.
+how to delete a message on whatsapp | Long press the message, tap Delete, and choose Delete for everyone. You can only do this for a limited time after sending it.
+how to create a group chat | Open the messaging app, tap New Group, choose the people you want to add, give the group a name, and tap Create.
+how to attach a file to an email | Open a new email, click the paperclip icon, choose the file from your device, and send the email when it finishes uploading.
+how to unsubscribe from emails | Open the email, scroll to the bottom, and click Unsubscribe. In Gmail you can also click Unsubscribe next to the sender's name at the top.
+how to make a google account | Go to accounts.google.com, click Create account, enter your name, birthday and a new username, choose a password, and verify with your phone number.
+how to create a folder in google drive | Open drive.google.com, click New, choose New folder, type a name, and click Create.
+how to share a google doc | Open the document, click Share at the top right, type the person's email, choose Viewer or Editor, and click Send.
+how to make a table in word | Click Insert, then Table, move the mouse to choose how many rows and columns you want, then click.
+how to add page numbers in word | Click Insert, then Page Number, and choose where you want the numbers to appear, at the top or the bottom of the page.
+how to sum numbers in excel | Click the cell where you want the total, type =SUM(A1:A10) with your own cell range, and press Enter. You can also click AutoSum on the Home tab.
+how to make a chart in excel | Select the data with its titles, click Insert, choose the chart type you like, and Excel will draw it for you.
+how to make a presentation | Open PowerPoint or Google Slides, choose a theme, add a title slide, then add one slide for each main idea with short points and pictures.
+how to pay with my phone | Add your bank card to Apple Wallet on iPhone or Google Wallet on Android, then hold your phone near the card machine and confirm with your face, finger or PIN.
+how to send money to a friend | Open your bank app, choose Transfer or Send Money, enter your friend's account or phone number, type the amount, check the details, and confirm.
+how to check my bank balance | Open your bank app or website and log in, and your balance shows on the main page. You can also check it at any ATM with your card.
+how to make a budget | Write down your monthly income, list your fixed bills like rent and phone, set a limit for food and fun, and save some money first before spending the rest.
+how to save money | Save a fixed amount as soon as you get paid, cook at home more, cancel subscriptions you do not use, and wait a day before buying things you do not need.
+how to apply for a job | Find a job you like, prepare your CV and a short cover letter for that job, send them through the website or by email, and follow up after a week if no one replies.
+how to prepare for a job interview | Read about the company, practice answers to common questions, prepare examples from your experience, dress well, and arrive 10 minutes early.
+how to write a cover letter | Say which job you want, explain in two or three short paragraphs why you are a good fit with real examples, and end by thanking them and asking for an interview.
+how to make a linkedin profile | Sign up on linkedin.com, add a clear photo and a short headline, fill in your experience, education and skills, and connect with people you know.
+how to learn programming | Choose one language like Python, follow a free course, write small programs every day, then build a small project of your own.
+how to manage my time | Write a to-do list every morning, do the most important task first, put your phone away while you work, and take short breaks.
+how to sleep better | Go to bed and wake up at the same time every day, avoid screens and caffeine before bed, and keep your room dark, quiet and cool.
+how to drink more water | Keep a bottle with you all day, drink a glass when you wake up and with each meal, and set reminders on your phone.
+how to start exercising | Start with 20 minutes of walking a day, add simple exercises like squats and push-ups, do a little more each week, and stop if you feel pain.
+how to cook rice | Wash one cup of rice, put it in a pot with two cups of water and a little salt, bring it to a boil, then cover and cook on low heat for about 15 to 18 minutes.
+how to make coffee | Put one or two spoons of ground coffee in a French press, add hot water that is not boiling, wait about 4 minutes, press it down, then pour and add milk or sugar if you like.
+how to remove a stain from clothes | Act quickly, blot it with a clean cloth without rubbing, rinse it with cold water from the back, apply a little soap or stain remover, then wash it as usual.
+how to clean my laptop screen | Turn off the laptop, use a soft microfiber cloth lightly wet with water, wipe gently, and never spray liquid directly on the screen.
+how to treat a small cut | Wash your hands, clean the cut with clean water, press gently with a clean cloth to stop the bleeding, then cover it with a bandage.
+how to do cpr | Call emergency services, put the person on their back, place both hands in the center of the chest, and push hard and fast 100 to 120 times a minute until help arrives.
