@@ -5,9 +5,13 @@ def run():
     lines = get_data()
 
     while True:
-        question = input("\nHi Son what do you want me to teach you?: ")
+        question = input("Hi Son what do you want me to teach you?: ")
         if question == "exit":
             break
+
+        if ht.has_special_chars(question):
+            print("Son, use only letters and numbers, no special characters.")
+            continue
 
         answers = ht.best_three(question, lines)
 

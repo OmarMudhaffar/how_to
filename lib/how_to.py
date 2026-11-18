@@ -1,3 +1,5 @@
+import re
+
 def best_three(question, lines):
     question_words = question.lower().split()
     results = []
@@ -16,3 +18,6 @@ def best_three(question, lines):
 
     results.sort(reverse=True)
     return results[:3]
+
+def has_special_chars(question):
+    return re.search(r"[^a-zA-Z0-9 ]", question) is not None
