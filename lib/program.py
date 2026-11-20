@@ -1,8 +1,12 @@
 from .data import get_data
 from . import how_to as ht
+from .menuside import showmenu
+
+
 
 def run():
     lines = get_data()
+    showmenu()
 
     while True:
         question = input("Hi Son what do you want me to teach you?: ")
