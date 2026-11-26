@@ -1,5 +1,7 @@
 # How To? 👨
 
+![How To banner](images/banner.gif)
+
 ## Description
 - **What problem it solves:** your dad knows a lot, but you never ask him to teach you. This app is your dad in the console: ask him how to do something and he tells you, step by step.
 - **Main features:**
@@ -70,14 +72,15 @@ python3 -m pytest
 | Decomposition: no code outside functions, 25+ functions, no file over 300 lines, no function over 80 lines | everywhere | +1 |
 | All user interaction happens inside the app, no restart needed | `lib/program.py` | +1 |
 | Logging to `app.log` | `lib/logger.py` | +1 |
+| Gif showing how the app works | `images/demo.gif` | +2 |
 
-**Approximate Total: 23 points** (+2 with the demo gif)
+**Approximate Total: 25 points**
 
 ## TODO
 
 ### Incomplete Planned Features
-- [ ] Record a gif of the app and add it to `images/demo.gif`
-- [ ] Add a screenshot to `images/screenshot1.png`
+- [x] Record a gif of the app and add it to `images/demo.gif`
+- [x] Add a screenshot to `images/screenshot1.png`
 - [ ] Deploy the app online so people outside the course can use it
 
 ## Project Structure
