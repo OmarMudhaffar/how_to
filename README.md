@@ -50,32 +50,6 @@ python3 -m pytest
 5. Thank your dad
 6. Type `exit` to close the app
 
-# Completed functionality and approximate grades from our perception
-
-| Criteria | Where | Points |
-|---|---|---|
-| Menu, returns to menu after every action, closes only with `exit` | `lib/program.py` → `run()` | +1 |
-| Well-thought-out design: colors, dad ASCII picture, slow typing text | `lib/colors.py`, `lib/menuside.py` | +2 |
-| All functions apart from main are in separate files | `lib/` folder | +1 |
-| Deployed on git with `requirements.txt`, `.gitignore`, `.env`, `README.md` | repo root | +1 |
-| Atomic commits | git history | +2 |
-| Merged with a pull request | GitHub | +1 |
-| External file to save data (`dad-head/howto.txt`) | `lib/data.py` | +1 |
-| Real SQL database (SQLite) for the questions history | `lib/history.py` | +2 |
-| pytest for main functions (6 tests) | `tests/test_main_functions.py` | +1 |
-| External API (wttr.in weather) | `lib/weather.py` | +1 |
-| Connected AI (Claude) | `lib/ai.py` | +2 |
-| Data structures: dict (`MENU`, `ACTIONS`), list (`knowledge`), set (`unique_words`, `COMMON_WORDS`), tuple (search results, history rows), generator (`read_lines`), lambda (sort in `best_three`), decorator (`log_call`) | `lib/` | +1 |
-| 2 classes: `Person` and `Dad` | `lib/people.py` | +1 |
-| `Dad` inherits `Person` | `lib/people.py` | +2 |
-| Error handling with `try/except` (file, API, AI, Ctrl+C) + Regex validation (question, city, new title) | `lib/data.py`, `lib/weather.py`, `lib/ai.py`, `lib/how_to.py` | +1 |
-| Decomposition: no code outside functions, 25+ functions, no file over 300 lines, no function over 80 lines | everywhere | +1 |
-| All user interaction happens inside the app, no restart needed | `lib/program.py` | +1 |
-| Logging to `app.log` | `lib/logger.py` | +1 |
-| Gif showing how the app works | `images/demo.gif` | +2 |
-
-**Approximate Total: 25 points**
-
 ## TODO
 
 ### Incomplete Planned Features
