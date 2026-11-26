@@ -1,9 +1,11 @@
 import re
 
+COMMON_WORDS = {"how", "to", "a", "an", "the", "my", "i", "do", "can", "you", "me", "on", "in", "of"}
+
 
 def unique_words(text):
-    """Return a set of the words in the text (no repeated words)."""
-    return set(text.lower().split())
+    """Return a set of the words in the text, without common words like 'how' and 'to'."""
+    return set(text.lower().split()) - COMMON_WORDS
 
 
 def best_three(question, lines):
