@@ -1,0 +1,17 @@
+# python cache
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# virtual environment
+.venv/
+
+# secrets (never upload this!)
+.env
+
+# files the app makes while running
+app.log
+history.db
+
+# mac
+.DS_Store
