@@ -9,12 +9,10 @@ RESET = "\033[0m"
 
 
 def color(text, code):
-    """Return the text painted with a color code."""
     return code + text + RESET
 
 
 def slow_print(text, delay=0.02):
-    """Print the text letter by letter, like dad is typing."""
     for letter in text:
         print(letter, end="", flush=True)
         time.sleep(delay)

@@ -67,7 +67,7 @@ python3 -m pytest
 | 2 classes: `Person` and `Dad` | `lib/people.py` | +1 |
 | `Dad` inherits `Person` | `lib/people.py` | +2 |
 | Error handling with `try/except` (file, API, AI, Ctrl+C) + Regex validation (question, city, new title) | `lib/data.py`, `lib/weather.py`, `lib/ai.py`, `lib/how_to.py` | +1 |
-| Decomposition: no code outside functions, 25+ functions, no file over 300 lines, no function over 80 lines, every function has a docstring | everywhere | +1 |
+| Decomposition: no code outside functions, 25+ functions, no file over 300 lines, no function over 80 lines | everywhere | +1 |
 | All user interaction happens inside the app, no restart needed | `lib/program.py` | +1 |
 | Logging to `app.log` | `lib/logger.py` | +1 |
 

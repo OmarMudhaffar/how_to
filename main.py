@@ -2,7 +2,6 @@ from lib import program
 
 
 def main():
-    """Start the app."""
     program.run()
 
 

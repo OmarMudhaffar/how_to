@@ -21,7 +21,6 @@ DAD_PICTURE = r"""
 
 
 def show_banner(weather_text):
-    """Show the welcome picture and today's weather."""
     print(color("*" * 50, YELLOW))
     print(color(DAD_PICTURE, CYAN))
     print(color("   Welcome to the How To app!", YELLOW))
@@ -30,7 +29,6 @@ def show_banner(weather_text):
 
 
 def show_menu():
-    """Print all the menu options."""
     print()
     for key, text in MENU.items():
         print(color(" [" + key + "] ", YELLOW) + text)

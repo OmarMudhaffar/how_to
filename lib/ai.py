@@ -4,7 +4,6 @@ import anthropic
 
 
 def ask_ai(question):
-    """Ask Claude AI when dad does not know the answer."""
     if not os.getenv("ANTHROPIC_API_KEY"):
         return "No AI key found. Put ANTHROPIC_API_KEY in the .env file."
 

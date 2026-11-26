@@ -15,7 +15,6 @@ from .colors import color, RED, YELLOW
 
 @log_call
 def ask_dad(dad):
-    """Ask dad a question and show his 3 best answers."""
     question = input("What do you want me to teach you?: ").strip()
     if question == "" or has_special_chars(question):
         print(color("Son, use only letters and numbers, no special characters.", RED))
@@ -37,7 +36,6 @@ def ask_dad(dad):
 
 @log_call
 def ask_ai_dad(dad):
-    """Send the question to the AI and show the answer."""
     question = input("Ask AI dad anything: ").strip()
     if question == "":
         return
@@ -48,7 +46,6 @@ def ask_ai_dad(dad):
 
 @log_call
 def show_weather(dad):
-    """Ask for a city and show its weather."""
     city = input("Which city?: ").strip()
     if not is_valid_city(city):
         print(color("City name can have only letters.", RED))
@@ -58,7 +55,6 @@ def show_weather(dad):
 
 @log_call
 def teach_dad(dad):
-    """Let the user add a new how-to that is saved in the file."""
     title = input("Title (must start with 'how to'): ").strip().lower()
     if not is_valid_title(title):
         print(color("Title must look like: how to make coffee", RED))
@@ -74,7 +70,6 @@ def teach_dad(dad):
 
 @log_call
 def show_history(dad):
-    """Show the last questions from the database."""
     rows = get_history()
     if len(rows) == 0:
         dad.say("You did not ask me anything yet.")
@@ -85,7 +80,6 @@ def show_history(dad):
 
 @log_call
 def clear_my_history(dad):
-    """Delete all questions from the database."""
     clear_history()
     dad.say("Done, I forgot all your questions.")
 
@@ -101,7 +95,6 @@ ACTIONS = {
 
 
 def run():
-    """Start the app and keep showing the menu until the user types exit."""
     load_dotenv()
     setup_logging()
     logging.info("app started")
