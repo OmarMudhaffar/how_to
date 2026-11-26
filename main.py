@@ -1,3 +1,10 @@
 from lib import program
 
-program.run()
+
+def main():
+    """Start the app."""
+    program.run()
+
+
+if __name__ == "__main__":
+    main()
